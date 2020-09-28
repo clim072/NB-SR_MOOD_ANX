@@ -9,13 +9,15 @@ There is consistent evidence that mood disorders often co-occur with anxiety dis
 
 <br>
 
-**Results** 
 
-<br>
-
-Here are the link to the details of the studies:
+**Here are the link to the details of the studies:**
 * [PRISMA diagram](../master/files/PRISMA/02_prisma_diagram_28May2020.png)
 * [Dataset](../master/files/Dataset/ma3.csv)
 * [R Codes](../master/files/Codes/R-Script2.Rmd)
 * [Forest plots](../master/files/Forestplots/R-Script2.html)
 
+<br>
+<br>
+
+This study is part of the Niels Bohr Professorship Program led by 
+[Professor John McGrath](https://twitter.com/John_J_McGrath). Find out more about our work [here](https://holtzy.github.io/NbEpi/)
