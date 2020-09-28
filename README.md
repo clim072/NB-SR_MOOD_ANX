@@ -1,6 +1,7 @@
 Comorbidity between mood and anxiety disorders: a systematic review and meta-analysis 
 ========================================================================================
  
+<br>
 
 **Abstract**
 
@@ -13,4 +14,4 @@ Details of the studies are in the:
 * [PRISMA diagram](../master/files/PRISMA/02_prisma_diagram_28May2020.png)
 
 
-An example of the forest plot for the following comorbidity pair : "Dysthymia and GAD" & "Depression and Social Phobia" is available here ![Example plot](../master/files/Main figure/Figure 1.tiff.png "Example plot")
+An example of the forest plot for the following comorbidity pair : "Dysthymia and GAD" & "Depression and Social Phobia" is available here ![Example plot](../master/files/Main figure/Figure 1.tiff "Example plot")
