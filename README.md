@@ -11,7 +11,7 @@ There is consistent evidence that mood disorders often co-occur with anxiety dis
 
 
 **Methodology and codes are available here:**
-* [Search Strategy](../master/files/Search Strategy/SearchStrategy.md)
+* [Search Strategy](../master/files/Search strategy/SearchStrategy.md)
 * [PRISMA diagram](../master/files/PRISMA/02_prisma_diagram_28May2020.png)
 * [Dataset](../master/files/Dataset/ma3.csv)
 * [R Codes](../master/files/Codes/R-Script2.Rmd)
