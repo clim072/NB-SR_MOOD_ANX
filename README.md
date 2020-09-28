@@ -10,8 +10,12 @@ There is consistent evidence that mood disorders often co-occur with anxiety dis
 <br>
 
 **Results** 
-Details of the studies are in the:
+
+<br>
+
+Here are the link to the details of the studies:
 * [PRISMA diagram](../master/files/PRISMA/02_prisma_diagram_28May2020.png)
+* [Dataset](../master/files/Dataset/ma3.csv)
+* [R Codes](../master/files/Codes/R Script 2.Rmd)
+* [Forest plots](../master/files/Forestplots/R-Script2.html)
 
-
-An example of the forest plot for the following comorbidity pair : "Dysthymia and GAD" & "Depression and Social Phobia" is available here ![Example plot](../master/files/Main figure/Figure1.png "Example plot")
